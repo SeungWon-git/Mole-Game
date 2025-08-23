@@ -1,0 +1,55 @@
+## OS 불필요 파일
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Unity 빌드/캐시 관련
+# 빌드 산출물
+두더지 게임/[Bb]uild/
+두더지 게임/[Bb]uilds/
+두더지 게임/[Ll]ogs/
+
+# Library: Unity가 자동 생성하는 캐시 데이터
+두더지 게임/[Ll]ibrary/
+
+# Temp: Unity 임시 데이터
+두더지 게임/[Tt]emp/
+
+# Obj: 빌드 중간 산출물
+두더지 게임/[Oo]bj/
+
+# Unity 빌드 캐시
+두더지 게임/[Bb]in/
+
+## 사용자 환경 관련
+# 사용자별 설정
+*.user
+*.userprefs
+*.suo
+*.svd
+*.pdb
+*.pidb
+*.booproj
+*.swp
+*.unityproj
+
+# IDE 관련
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.userprefs
+
+## 기타 유니티 관련
+# Crash 보고서
+sysinfo.txt
+
+# Asset Store 다운로드 캐시
+*.unitypackage
