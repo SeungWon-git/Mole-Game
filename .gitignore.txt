@@ -7,21 +7,21 @@ $RECYCLE.BIN/
 
 ## Unity 빌드/캐시 관련
 # 빌드 산출물
-두더지 게임/[Bb]uild/
-두더지 게임/[Bb]uilds/
-두더지 게임/[Ll]ogs/
+두더지 잡기/[Bb]uild/
+두더지 잡기/[Bb]uilds/
+두더지 잡기/[Ll]ogs/
 
 # Library: Unity가 자동 생성하는 캐시 데이터
-두더지 게임/[Ll]ibrary/
+두더지 잡기/[Ll]ibrary/
 
 # Temp: Unity 임시 데이터
-두더지 게임/[Tt]emp/
+두더지 잡기/[Tt]emp/
 
 # Obj: 빌드 중간 산출물
-두더지 게임/[Oo]bj/
+두더지 잡기/[Oo]bj/
 
 # Unity 빌드 캐시
-두더지 게임/[Bb]in/
+두더지 잡기/[Bb]in/
 
 ## 사용자 환경 관련
 # 사용자별 설정
