@@ -16,8 +16,8 @@
    + FireSharp ver 2.0.4 SDK
    + PUN 2 'FREE ver 2.40.0'
    + Net API - '.Net Standard 2.1'
- - 시연 영상: [▶️ 영상 보기](https://www.youtube.com/)
-<img src="http://img.youtube.com/vi//0.jpg" width="400">
+ - 시연 영상: [▶️ 유투브 영상 보기](https://www.youtube.com/)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0b5cd3ed-39b4-43f6-9c0c-11498965387e" />
 
 ---
 
