@@ -77,3 +77,9 @@
   * 또한, 게임 시작은 해당 시드 값을 모든 플레이어가 받고 나서 준비가 완료되면 **다 같이 시작**함. → **공정한 실시간 점수 경쟁이 가능해짐!**
 - 실제 구현 코드: 
  [랜덤 시드를 받아 두더지 패턴 동기화](https://github.com/SeungWon-git/Mole-Game/blob/1e2b306dd60f00c31c4859fa208b4ae228c13374/%EB%91%90%EB%8D%94%EC%A7%80%20%EC%9E%A1%EA%B8%B0/Assets/Resources/RandomPattern.cs#L27), [두더지 매니저-패턴 컨트롤, 애니메이션, 피격 판정](https://github.com/SeungWon-git/Mole-Game/blob/main/%EB%91%90%EB%8D%94%EC%A7%80%20%EC%9E%A1%EA%B8%B0/Assets/Resources/MoleManager.cs)
+
+* * *
+
+## 📎 기타
+- 소스 코드: 👉 [소스 코드 폴더](https://github.com/SeungWon-git/Mole-Game/tree/main/%EB%91%90%EB%8D%94%EC%A7%80%20%EC%9E%A1%EA%B8%B0/Assets/Resources)
+- 최종 보고서: 📃 [최종 보고서(pptx)](https://github.com/SeungWon-git/Mole-Game/blob/main/%EB%91%90%EB%8D%94%EC%A7%80%20%EC%9E%A1%EA%B8%B0%20%EA%B2%8C%EC%9E%84%20%EA%B5%AC%ED%98%84%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pptx) 
