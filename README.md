@@ -53,7 +53,7 @@
 - ‘LobbyManager’라는 게임 오브젝트와 스크립트를 만들어 연결시켜 로비를 생성 또는 검색하는 기능 구현
 - 로비에서 마스터 서버와의 연결 상태를 Text를 이용하여 화면에 표시
 - ‘PlayerManager’라는 게임 오브젝트를 만들어 그 안에 RPC 동기화용 스크립트 ‘PlayerManager.cs’ 과 Photon View 컴포넌트를 붙여 네트워크 작업을 수행
-- Photon View 의 Synchronization 옵션을 Off 로 설정하여 RPC만을 이용하여 동기화 작업을 처리함
+- Photon View 의 Synchronization 옵션을 Off 로 설정하고, 직접 RPC 호출만을 이용하여 동기화 작업을 처리함 → 필요한 최소한의 데이터만 네트워크 동기화
 - 대부분의 PunRPC의 사용 방법은 모든 클라이언트에게 원하는 RPC 함수를 실행시키고 인자로 특정 플레이어의 ActorNumber를 넘겨주어 해당 클라이언트만 해당 함수를 실제로 작동시키도록 구현
 <img width="178" height="124" alt="image" src="https://github.com/user-attachments/assets/137a1b3a-7b8f-476b-82ed-6acf6d36089e" />
 ← 인 게임에서 실시간 점수에 따라 점수 판의 순위가 변동됨
