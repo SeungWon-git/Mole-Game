@@ -11,7 +11,7 @@
    > + 게임의 흥미를 위해 **랜덤한 두더지의 튀어나오는 패턴** 구현 (3가지 패턴) & 두더지 패턴 동기화
    > + 두더지의 애니메이션, 피격 이펙트, 점수 +/- 이미지 효과 직접 제작
  - 개발에 사용된 기술 스택:
-   + Unity (2021.2.7f1 ver)
+   + Unity (2021.2.7f1 ver), C#
    + Google Firebase Realtime Database
    + FireSharp ver 2.0.4 SDK
    + PUN 2 'FREE ver 2.40.0'
